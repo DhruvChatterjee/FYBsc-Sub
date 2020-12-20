@@ -1,1 +1,8 @@
 # FYBsc-Sub
+DBMS
+PYTHON 
+COD
+FOSS
+DM
+DSP
+SSD
